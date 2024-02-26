@@ -1,5 +1,5 @@
 {
-  "name": "@narayanan28/hello-world-package",
+  "name": "@vikitab/hello-world-package",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "repository": {
-    "url": "git://github.com/narayanan28/demogitpak.git"
+    "url": "git://github.com/vikitab/demogitpak.git"
   },
   "license": "ISC"
 }
